@@ -1,0 +1,28 @@
+# Python
+*.pyc
+__pycache__/
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+.env/
+
+# IDE specific files (examples)
+.idea/
+.vscode/
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# Other common ignored files
+*.log
+*.sqlite3
+lib/
+lib64/
